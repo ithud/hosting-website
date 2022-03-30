@@ -4,7 +4,7 @@ module.exports = {
   publicPath: process.env.NODE_ENV === "production" ? "" : "/",
   productionSourceMap: false,
   devServer: {
-    host: "0.0.0.0",
+    host: "183.128.185.33",
     open: true,
   },
 };
